@@ -13,7 +13,7 @@ For the correct functioning of the application, are neccesaries the following py
 
 Requests can be installed through the following command in your terminal of your computer:
 
-**Windowds:**
+**Windows:**
 
 ```
 pip install requests
@@ -29,7 +29,7 @@ pip3 install requests
 
 To install PyQt5, type the following command in your terminal of your computer:
 
-**Windowds:**
+**Windows:**
 
 ```
 pip install pyqt5
@@ -45,7 +45,7 @@ pip3 install pyqt5
 
 Next, we have BeatifulSoup, which is installed through the following command:
 
-**Windowds:**
+**Windows:**
 
 ```
 pip install beautifulsoup4
@@ -59,7 +59,7 @@ pip3 install beautifulsoup4
 
 The last one is needed by BeautifulSoup and is called lxml:
 
-**Windowds:**
+**Windows:**
 
 ```
 pip install lxml
