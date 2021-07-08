@@ -57,6 +57,8 @@ pip install beautifulsoup4
 pip3 install beautifulsoup4
 ```
 
+---
+
 The last one is needed by BeautifulSoup and is called lxml:
 
 **Windows:**
