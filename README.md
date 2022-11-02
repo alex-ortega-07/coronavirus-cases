@@ -22,5 +22,8 @@ pip install beautifulsoup4
 pip install lxml
 ```
 
+### Screenshots
+https://user-images.githubusercontent.com/85643095/199612178-2b609974-99e3-4056-b182-38af76d692e8.mp4
+
 ## Usage
 Type your country in the textbox and press `Search`.
