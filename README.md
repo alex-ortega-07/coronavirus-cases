@@ -21,3 +21,6 @@ pip install beautifulsoup4
 ```
 pip install lxml
 ```
+
+## Usage
+Type your country in the textbox and press `Search`.
